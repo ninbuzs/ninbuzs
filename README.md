@@ -12,7 +12,7 @@
 
 
 
-<div>
+<div style="padding-top:10px">
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"  />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"  />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"  />
@@ -22,11 +22,12 @@
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"  />
 </div>
 
-<a href="mailto:fsacomandi@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar correo a fsacomandi@gmail.com">
-</a>
-<a href="https://www.linkedin.com/in/felipe-sacomandi-260b13284/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Felipe Sacomandi">
-</a>
-
+<div style="padding-top:10px">
+  <a href="mailto:fsacomandi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Enviar correo a fsacomandi@gmail.com">
+  </a>
+  <a href="https://www.linkedin.com/in/felipe-sacomandi-260b13284/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Felipe Sacomandi">
+  </a>
+</div>
 
